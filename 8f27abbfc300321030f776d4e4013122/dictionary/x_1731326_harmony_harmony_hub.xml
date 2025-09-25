@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5dea23f7c340321030f776d4e4013169" label="Harmony Hub" max_length="40" name="x_1731326_harmony_harmony_hub" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Event Name" max_length="40" name="event_name" type="string"/>
+    </element>
+</database>
